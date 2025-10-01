@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.220103|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_ODO_V2_V2: 5191
+  response: 7DA0762010301001447
+- expected_values:
+    TOYOTA_ODO_V2_V2: 14040
+  response: 7DA07620103010036D8
+- expected_values:
+    TOYOTA_ODO_V2_V2: 14102
+  response: 7DA0762010301003716
+- expected_values:
+    TOYOTA_ODO_V2_V2: 15663
+  response: 7DA0762010301003D2F
