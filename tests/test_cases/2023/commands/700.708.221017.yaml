@@ -1,0 +1,20 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: '708056210170000'
+- expected_values:
+    TOYOTA_INJ_VOL: 1.36094
+  response: '708056210171103'
+- expected_values:
+    TOYOTA_INJ_VOL: 1.43812
+  response: 7080562101711FA
+- expected_values:
+    TOYOTA_INJ_VOL: 2.94125
+  response: 7080562101724C4
+- expected_values:
+    TOYOTA_INJ_VOL: 3.2325
+  response: '708056210172868'
+- expected_values:
+    TOYOTA_INJ_VOL: 3.46688
+  response: 708056210172B56
