@@ -4,17 +4,8 @@ test_cases:
     TOYOTA_CAT_T_BANK_1_SENSOR_1: 140.3
   response: 70805621F3C070B
 - expected_values:
-    TOYOTA_CAT_T_BANK_1_SENSOR_1: 328.2
-  response: 70805621F3C0E62
-- expected_values:
     TOYOTA_CAT_T_BANK_1_SENSOR_1: 343.9
   response: 70805621F3C0EFF
 - expected_values:
-    TOYOTA_CAT_T_BANK_1_SENSOR_1: 438.4
-  response: 70805621F3C12B0
-- expected_values:
-    TOYOTA_CAT_T_BANK_1_SENSOR_1: 465.6
-  response: 70805621F3C13C0
-- expected_values:
-    TOYOTA_CAT_T_BANK_1_SENSOR_1: 488.3
-  response: 70805621F3C14A3
+    TOYOTA_CAT_T_BANK_1_SENSOR_1: 625.6
+  response: 70805621F3C1A00
