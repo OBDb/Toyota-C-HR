@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0
   response: '708056210870000'
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 38.41255
+  response: 708056210870F5E
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 39.96507
+  response: 708056210870FFD
