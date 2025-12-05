@@ -1,0 +1,29 @@
+command_id: 7D2.7DA.221F46
+test_cases:
+- expected_values:
+    TOYOTA_AAT_V2: 10
+  response: 7DA04621F4632
+- expected_values:
+    TOYOTA_AAT_V2: 14
+  response: 7DA04621F4636
+- expected_values:
+    TOYOTA_AAT_V2: 15
+  response: 7DA04621F4637
+- expected_values:
+    TOYOTA_AAT_V2: 16
+  response: 7DA04621F4638
+- expected_values:
+    TOYOTA_AAT_V2: 19
+  response: 7DA04621F463B
+- expected_values:
+    TOYOTA_AAT_V2: 21
+  response: 7DA04621F463D
+- expected_values:
+    TOYOTA_AAT_V2: 24
+  response: 7DA04621F4640
+- expected_values:
+    TOYOTA_AAT_V2: 26
+  response: 7DA04621F4642
+- expected_values:
+    TOYOTA_AAT_V2: 27
+  response: 7DA04621F4643

@@ -1,0 +1,11 @@
+command_id: 747.220103|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_ODO_V6: 3094
+  response: 74F0762010301000C16
+- expected_values:
+    TOYOTA_ODO_V6: 14040
+  response: 74F07620103010036D8
+- expected_values:
+    TOYOTA_ODO_V6: 15663
+  response: 74F0762010301003D2F
