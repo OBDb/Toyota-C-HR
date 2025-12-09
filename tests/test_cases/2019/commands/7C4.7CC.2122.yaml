@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2122
 test_cases:
 - expected_values:
-    TOYOTA_AAT: 4
-  response: 7CC0361224E
+    TOYOTA_AAT_7C4: 3.65
+  response: 7CC0361224D
 - expected_values:
-    TOYOTA_AAT: 10.65
+    TOYOTA_AAT_7C4: 10.65
   response: 7CC03612261

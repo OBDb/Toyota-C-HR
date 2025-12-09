@@ -4,8 +4,8 @@ test_cases:
     TOYOTA_INJ_VOL: 0
   response: '708056210170000'
 - expected_values:
-    TOYOTA_INJ_VOL: 3.11719
-  response: 7080562101726F7
+    TOYOTA_INJ_VOL: 0.63875
+  response: 7080562101707FC
 - expected_values:
     TOYOTA_INJ_VOL: 3.12031
   response: '708056210172701'

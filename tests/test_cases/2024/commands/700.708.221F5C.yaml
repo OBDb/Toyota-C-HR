@@ -1,0 +1,18 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    TOYOTA_EOT_V2_V2: 43
+    TOYOTA_EOT_V3_V2: 43
+  response: 70804621F5C53
+- expected_values:
+    TOYOTA_EOT_V2_V2: 44
+    TOYOTA_EOT_V3_V2: 44
+  response: 70804621F5C54
+- expected_values:
+    TOYOTA_EOT_V2_V2: 45
+    TOYOTA_EOT_V3_V2: 45
+  response: 70804621F5C55
+- expected_values:
+    TOYOTA_EOT_V2_V2: 46
+    TOYOTA_EOT_V3_V2: 46
+  response: 70804621F5C56
