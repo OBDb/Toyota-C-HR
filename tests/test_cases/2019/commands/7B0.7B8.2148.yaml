@@ -6,6 +6,10 @@ test_cases:
   response: 7B806614800000000
 - expected_values:
     TOYOTA_FR_REGEN_OPERATION: 1
+    TOYOTA_FR_REGEN_REQUEST: 0
+  response: 7B806614800000001
+- expected_values:
+    TOYOTA_FR_REGEN_OPERATION: 1
     TOYOTA_FR_REGEN_REQUEST: 1
   response: 7B806614800010001
 - expected_values:
