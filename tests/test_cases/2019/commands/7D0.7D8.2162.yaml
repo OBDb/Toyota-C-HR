@@ -7,7 +7,7 @@ test_cases:
 - expected_values:
     TOYOTA_PARKING_BRAKE: 'OFF'
     TOYOTA_PARKING_BRAKE_2: 1
-  response: 7D80461620193
+  response: 7D804616201A5
 - expected_values:
     TOYOTA_PARKING_BRAKE_2: 1
   response: 7D80461621D00
