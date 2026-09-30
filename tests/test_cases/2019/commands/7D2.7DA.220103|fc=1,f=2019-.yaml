@@ -1,17 +1,17 @@
 command_id: 7D2.7DA.220103|fc=1,f=2019-
 test_cases:
 - expected_values:
-    C_ODO_V2_V2: 74963
+    C_HR_ODO_V2_V2: 74963
   response: 7DA07620103010124D3
 - expected_values:
-    C_ODO_V2_V2: 78184
+    C_HR_ODO_V2_V2: 78184
   response: 7DA0762010301013168
 - expected_values:
-    C_ODO_V2_V2: 87039
+    C_HR_ODO_V2_V2: 87039
   response: 7DA07620103010153FF
 - expected_values:
-    C_ODO_V2_V2: 87040
+    C_HR_ODO_V2_V2: 87040
   response: 7DA0762010301015400
 - expected_values:
-    C_ODO_V2_V2: 87552
+    C_HR_ODO_V2_V2: 87552
   response: 7DA0762010301015600

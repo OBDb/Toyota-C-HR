@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F5B|fc=1,f=2019-
 test_cases:
 - expected_values:
-    C_SOC: 27.05882
+    C_HR_SOC: 27.05882
   response: 7DA04621F5B45
 - expected_values:
-    C_SOC: 45.4902
+    C_HR_SOC: 45.4902
   response: 7DA04621F5B74

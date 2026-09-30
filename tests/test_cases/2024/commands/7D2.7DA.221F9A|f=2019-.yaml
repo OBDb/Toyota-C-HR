@@ -1,26 +1,26 @@
 command_id: 7D2.7DA.221F9A|f=2019-
 test_cases:
 - expected_values:
-    C_HVBAT_C: 2.6
-    C_HVBAT_V: 215
+    C_HR_HVBAT_C: 2.6
+    C_HR_HVBAT_V: 215
   response: |-
     7DA1009621F9A0E0035
     7DA21C0001A00000000
 - expected_values:
-    C_HVBAT_C: 7
-    C_HVBAT_V: 215
+    C_HR_HVBAT_C: 7
+    C_HR_HVBAT_V: 215
   response: |-
     7DA1009621F9A0E0035
     7DA21C0004600000000
 - expected_values:
-    C_HVBAT_C: 0.1
-    C_HVBAT_V: 216
+    C_HR_HVBAT_C: 0.1
+    C_HR_HVBAT_V: 216
   response: |-
     7DA1009621F9A0E0036
     7DA2100000100000000
 - expected_values:
-    C_HVBAT_C: 0.3
-    C_HVBAT_V: 216
+    C_HR_HVBAT_C: 0.3
+    C_HR_HVBAT_V: 216
   response: |-
     7DA1009621F9A0E0036
     7DA2100000300000000

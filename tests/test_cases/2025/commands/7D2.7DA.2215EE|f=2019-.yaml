@@ -1,14 +1,14 @@
 command_id: 7D2.7DA.2215EE|f=2019-
 test_cases:
 - expected_values:
-    C_12V_V_V2: 12.5917
+    C_HR_12V_V_V2: 12.5917
   response: 7DA056215EE28E2
 - expected_values:
-    C_12V_V_V2: 12.5917
+    C_HR_12V_V_V2: 12.5917
   response: 7DA056215EE28FE
 - expected_values:
-    C_12V_V_V2: 12.90618
+    C_HR_12V_V_V2: 12.90618
   response: 7DA056215EE2900
 - expected_values:
-    C_12V_V_V2: 14.1641
+    C_HR_12V_V_V2: 14.1641
   response: 7DA056215EE2D0C

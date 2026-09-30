@@ -1,22 +1,22 @@
 command_id: 7D2.7DA.22106C|fc=1,f=2019-
 test_cases:
 - expected_values:
-    C_HVBAT_SOC_MAX: 35
-    C_HVBAT_SOC_MIN: 28
+    C_HR_HVBAT_SOC_MAX: 35
+    C_HR_HVBAT_SOC_MIN: 28
   response: 7DA0662106C464638
 - expected_values:
-    C_HVBAT_SOC_MAX: 37
-    C_HVBAT_SOC_MIN: 30
+    C_HR_HVBAT_SOC_MAX: 37
+    C_HR_HVBAT_SOC_MIN: 30
   response: 7DA0662106C4A4A3C
 - expected_values:
-    C_HVBAT_SOC_MAX: 68
-    C_HVBAT_SOC_MIN: 31.5
+    C_HR_HVBAT_SOC_MAX: 68
+    C_HR_HVBAT_SOC_MIN: 31.5
   response: 7DA0662106C55883F
 - expected_values:
-    C_HVBAT_SOC_MAX: 60.5
-    C_HVBAT_SOC_MIN: 37.5
+    C_HR_HVBAT_SOC_MAX: 60.5
+    C_HR_HVBAT_SOC_MIN: 37.5
   response: 7DA0662106C79794B
 - expected_values:
-    C_HVBAT_SOC_MAX: 60.5
-    C_HVBAT_SOC_MIN: 58.5
+    C_HR_HVBAT_SOC_MAX: 60.5
+    C_HR_HVBAT_SOC_MIN: 58.5
   response: 7DA0662106C797975

@@ -1,11 +1,11 @@
 command_id: 7D2.7DA.2215F7|f=2019-
 test_cases:
 - expected_values:
-    C_12V_C: 2.03332
+    C_HR_12V_C: 2.03332
   response: 7DA056215F78215
 - expected_values:
-    C_12V_C: 2.86874
+    C_HR_12V_C: 2.86874
   response: 7DA056215F782F0
 - expected_values:
-    C_12V_C: 2.98318
+    C_HR_12V_C: 2.98318
   response: 7DA056215F7830E

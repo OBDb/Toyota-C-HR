@@ -1,98 +1,98 @@
 command_id: 7D2.7DA.2210A1|f=2019-
 test_cases:
 - expected_values:
-    C_RPM: -289
-    C_TQ: -15
+    C_HR_RPM: -289
+    C_HR_TQ: -15
   response: |-
     7DA100C6210A17EDF7F
     7DA218402007F880400
 - expected_values:
-    C_RPM: -257
-    C_TQ: -53.25
+    C_HR_RPM: -257
+    C_HR_TQ: -53.25
   response: |-
     7DA100C6210A17EFF7E
     7DA214D02007E560400
 - expected_values:
-    C_RPM: -218
-    C_TQ: -19.75
+    C_HR_RPM: -218
+    C_HR_TQ: -19.75
   response: |-
     7DA100C6210A17F267F
     7DA216002007F620400
 - expected_values:
-    C_RPM: -203
-    C_TQ: -19.25
+    C_HR_RPM: -203
+    C_HR_TQ: -19.25
   response: |-
     7DA100C6210A17F357F
     7DA215F02007F660400
 - expected_values:
-    C_RPM: -62
-    C_TQ: -29.125
+    C_HR_RPM: -62
+    C_HR_TQ: -29.125
   response: |-
     7DA100C6210A17FC27F
     7DA210802007F170400
 - expected_values:
-    C_RPM: -15
-    C_TQ: -1.875
+    C_HR_RPM: -15
+    C_HR_TQ: -1.875
   response: |-
     7DA100C6210A17FF17F
     7DA21F602007FF10400
 - expected_values:
-    C_RPM: -2
-    C_TQ: -0.125
+    C_HR_RPM: -2
+    C_HR_TQ: -0.125
   response: |-
     7DA100C6210A17FFE80
     7DA210002007FFF0400
 - expected_values:
-    C_RPM: -2
-    C_TQ: 0
+    C_HR_RPM: -2
+    C_HR_TQ: 0
   response: |-
     7DA100C6210A17FFE80
     7DA2100020080000400
 - expected_values:
-    C_RPM: -1
-    C_TQ: -0.125
+    C_HR_RPM: -1
+    C_HR_TQ: -0.125
   response: |-
     7DA100C6210A17FFF80
     7DA210002007FFF0000
 - expected_values:
-    C_RPM: 0
-    C_TQ: -6.375
+    C_HR_RPM: 0
+    C_HR_TQ: -6.375
   response: |-
     7DA100C6210A180007F
     7DA21C902007FCD0400
 - expected_values:
-    C_RPM: 10
-    C_TQ: 46.5
+    C_HR_RPM: 10
+    C_HR_TQ: 46.5
   response: |-
     7DA100C6210A1800A81
     7DA218B000081740400
 - expected_values:
-    C_RPM: 313
-    C_TQ: 101.75
+    C_HR_RPM: 313
+    C_HR_TQ: 101.75
   response: |-
     7DA100C6210A1813983
     7DA21290200832E0400
 - expected_values:
-    C_RPM: 1319
-    C_TQ: -72.875
+    C_HR_RPM: 1319
+    C_HR_TQ: -72.875
   response: |-
     7DA100C6210A185277D
     7DA21B002007DB90400
 - expected_values:
-    C_RPM: 2992
-    C_TQ: 39.625
+    C_HR_RPM: 2992
+    C_HR_TQ: 39.625
   response: |-
     7DA100C6210A18BB081
     7DA212E0202813D0400
 - expected_values:
-    C_RPM: 7412
-    C_TQ: -7.5
+    C_HR_RPM: 7412
+    C_HR_TQ: -7.5
   response: |-
     7DA100C6210A19CF47F
     7DA21C304027FC40400
 - expected_values:
-    C_RPM: 15827
-    C_TQ: 22.625
+    C_HR_RPM: 15827
+    C_HR_TQ: 22.625
   response: |-
     7DA100C6210A1BDD380
     7DA21A7040280B50400
