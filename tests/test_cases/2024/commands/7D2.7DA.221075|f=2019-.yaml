@@ -1,10 +1,10 @@
 command_id: 7D2.7DA.221075|f=2019-
 test_cases:
 - expected_values:
-    C_HR_FL_WHEEL_VSS: 0
-    C_HR_FR_WHEEL_VSS: 0
-    C_HR_RL_WHEEL_VSS: 0
-    C_HR_RR_WHEEL_VSS: 0
+    CHR_FL_WHEEL_VSS: 0
+    CHR_FR_WHEEL_VSS: 0
+    CHR_RL_WHEEL_VSS: 0
+    CHR_RR_WHEEL_VSS: 0
   response: |-
     7DA100B621075800080
     7DA2100800080000000

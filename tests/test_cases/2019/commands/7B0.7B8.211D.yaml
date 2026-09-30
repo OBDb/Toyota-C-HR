@@ -1,10 +1,10 @@
 command_id: 7B0.7B8.211D
 test_cases:
 - expected_values:
-    C_HR_MAIN_IDLE_SW: 0
-    C_HR_RESERVOIR_WARNING_SW: 0
+    CHR_MAIN_IDLE_SW: 0
+    CHR_RESERVOIR_WARNING_SW: 0
   response: 7B803611D00
 - expected_values:
-    C_HR_MAIN_IDLE_SW: 1
-    C_HR_RESERVOIR_WARNING_SW: 0
+    CHR_MAIN_IDLE_SW: 1
+    CHR_RESERVOIR_WARNING_SW: 0
   response: 7B803611D20

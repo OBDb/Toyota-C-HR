@@ -1,14 +1,14 @@
 command_id: 700.708.221F5C
 test_cases:
 - expected_values:
-    C_HR_EOT_V2: 43
+    CHR_EOT_V2: 43
   response: 70804621F5C53
 - expected_values:
-    C_HR_EOT_V2: 44
+    CHR_EOT_V2: 44
   response: 70804621F5C54
 - expected_values:
-    C_HR_EOT_V2: 45
+    CHR_EOT_V2: 45
   response: 70804621F5C55
 - expected_values:
-    C_HR_EOT_V2: 46
+    CHR_EOT_V2: 46
   response: 70804621F5C56

@@ -1,50 +1,50 @@
 command_id: 7D2.7DA.221F9A|f=2019-
 test_cases:
 - expected_values:
-    C_HR_HVBAT_C: 109.1
-    C_HR_HVBAT_V: 179
+    CHR_HVBAT_C: 109.1
+    CHR_HVBAT_V: 179
   response: |-
     7DA1009621F9A07002C
     7DA21C0044300000000
 - expected_values:
-    C_HR_HVBAT_C: 123.3
-    C_HR_HVBAT_V: 180
+    CHR_HVBAT_C: 123.3
+    CHR_HVBAT_V: 180
   response: |-
     7DA1009621F9A07002D
     7DA210004D100000000
 - expected_values:
-    C_HR_HVBAT_C: 76.8
-    C_HR_HVBAT_V: 197
+    CHR_HVBAT_C: 76.8
+    CHR_HVBAT_V: 197
   response: |-
     7DA1009621F9A070031
     7DA2140030000000000
 - expected_values:
-    C_HR_HVBAT_C: 44.7
-    C_HR_HVBAT_V: 202
+    CHR_HVBAT_C: 44.7
+    CHR_HVBAT_V: 202
   response: |-
     7DA1009621F9A070032
     7DA218001BF00000000
 - expected_values:
-    C_HR_HVBAT_C: -4.7
-    C_HR_HVBAT_V: 209
+    CHR_HVBAT_C: -4.7
+    CHR_HVBAT_V: 209
   response: |-
     7DA1009621F9A070034
     7DA2140FFD100000000
 - expected_values:
-    C_HR_HVBAT_C: 1
-    C_HR_HVBAT_V: 210
+    CHR_HVBAT_C: 1
+    CHR_HVBAT_V: 210
   response: |-
     7DA1009621F9A070034
     7DA2180000A00000000
 - expected_values:
-    C_HR_HVBAT_C: -0.7
-    C_HR_HVBAT_V: 214
+    CHR_HVBAT_C: -0.7
+    CHR_HVBAT_V: 214
   response: |-
     7DA1009621F9A070035
     7DA2180FFF900000000
 - expected_values:
-    C_HR_HVBAT_C: -111.8
-    C_HR_HVBAT_V: 277
+    CHR_HVBAT_C: -111.8
+    CHR_HVBAT_V: 277
   response: |-
     7DA1009621F9A070045
     7DA2140FBA200000000

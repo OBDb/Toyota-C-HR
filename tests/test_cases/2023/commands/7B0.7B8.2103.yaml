@@ -1,14 +1,14 @@
 command_id: 7B0.7B8.2103
 test_cases:
 - expected_values:
-    C_HR_TIRE_FL_SPD: 0
-    C_HR_TIRE_FR_SPD: 0
-    C_HR_TIRE_RL_SPD: 0
-    C_HR_TIRE_RR_SPD: 0
+    CHR_TIRE_FL_SPD: 0
+    CHR_TIRE_FR_SPD: 0
+    CHR_TIRE_RL_SPD: 0
+    CHR_TIRE_RR_SPD: 0
   response: 7B806610300000000
 - expected_values:
-    C_HR_TIRE_FL_SPD: 101.12
-    C_HR_TIRE_FR_SPD: 101.12
-    C_HR_TIRE_RL_SPD: 99.84
-    C_HR_TIRE_RR_SPD: 99.84
+    CHR_TIRE_FL_SPD: 101.12
+    CHR_TIRE_FR_SPD: 101.12
+    CHR_TIRE_RL_SPD: 99.84
+    CHR_TIRE_RR_SPD: 99.84
   response: 7B80661034F4F4E4E

@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F05|f=2019-
 test_cases:
 - expected_values:
-    C_HR_COOL_T: 17
+    CHR_COOL_T: 17
   response: 7DA04621F0539
 - expected_values:
-    C_HR_COOL_T: 80
+    CHR_COOL_T: 80
   response: 7DA04621F0578

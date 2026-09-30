@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F49|f=2019-
 test_cases:
 - expected_values:
-    C_HR_ACC_PEDAL_POS_1: 15.68627
+    CHR_ACC_PEDAL_POS_1: 15.68627
   response: 7DA04621F4928
 - expected_values:
-    C_HR_ACC_PEDAL_POS_1: 40
+    CHR_ACC_PEDAL_POS_1: 40
   response: 7DA04621F4966
