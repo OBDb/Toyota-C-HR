@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F46|f=2019-
 test_cases:
 - expected_values:
-    C_HR_AAT_7D2: -2
+    CHR_AAT_7D2: -2
   response: 7DA04621F4626
 - expected_values:
-    C_HR_AAT_7D2: 27
+    CHR_AAT_7D2: 27
   response: 7DA04621F4643

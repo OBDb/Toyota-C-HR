@@ -1,11 +1,11 @@
 command_id: 700.708.2210CD
 test_cases:
 - expected_values:
-    C_HR_LFP: 545.3
+    CHR_LFP: 545.3
   response: 708056210CD954D
 - expected_values:
-    C_HR_LFP: 560.9
+    CHR_LFP: 560.9
   response: 708056210CD95E9
 - expected_values:
-    C_HR_LFP: 564.2
+    CHR_LFP: 564.2
   response: 708056210CD960A

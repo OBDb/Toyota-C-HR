@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.214B
 test_cases:
 - expected_values:
-    C_HR_EVAP_FIN_THERMISTOR: -1.35
+    CHR_EVAP_FIN_THERMISTOR: -1.35
   response: 7CC03614B51
 - expected_values:
-    C_HR_EVAP_FIN_THERMISTOR: 22.45
+    CHR_EVAP_FIN_THERMISTOR: 22.45
   response: 7CC03614B95

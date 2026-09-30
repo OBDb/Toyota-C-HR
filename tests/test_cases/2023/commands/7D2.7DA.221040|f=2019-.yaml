@@ -1,14 +1,14 @@
 command_id: 7D2.7DA.221040|f=2019-
 test_cases:
 - expected_values:
-    C_HR_TRANSAXLE_OIL_T: 37
+    CHR_TRANSAXLE_OIL_T: 37
   response: 7DA06621040BB504D
 - expected_values:
-    C_HR_TRANSAXLE_OIL_T: 36
+    CHR_TRANSAXLE_OIL_T: 36
   response: 7DA06621040BBF04C
 - expected_values:
-    C_HR_TRANSAXLE_OIL_T: 17
+    CHR_TRANSAXLE_OIL_T: 17
   response: 7DA06621040CF6039
 - expected_values:
-    C_HR_TRANSAXLE_OIL_T: 17
+    CHR_TRANSAXLE_OIL_T: 17
   response: 7DA06621040D01039
