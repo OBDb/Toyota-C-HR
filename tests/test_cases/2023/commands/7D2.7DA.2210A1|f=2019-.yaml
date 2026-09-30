@@ -1,0 +1,56 @@
+command_id: 7D2.7DA.2210A1|f=2019-
+test_cases:
+- expected_values:
+    C_RPM: -2
+    C_TQ: 0
+  response: |-
+    7DA100C6210A17FFE80
+    7DA2100020080000400
+- expected_values:
+    C_RPM: -1
+    C_TQ: 0
+  response: |-
+    7DA100C6210A17FFF80
+    7DA2100020080000400
+- expected_values:
+    C_RPM: 0
+    C_TQ: 0
+  response: |-
+    7DA100C6210A1800080
+    7DA2100020080000400
+- expected_values:
+    C_RPM: 1409
+    C_TQ: 36.5
+  response: |-
+    7DA100C6210A1858181
+    7DA2122020081240400
+- expected_values:
+    C_RPM: 2036
+    C_TQ: 3.625
+  response: |-
+    7DA100C6210A187F480
+    7DA211C0200801D0400
+- expected_values:
+    C_RPM: 3770
+    C_TQ: -23.125
+  response: |-
+    7DA100C6210A18EBA7F
+    7DA213B02027F470400
+- expected_values:
+    C_RPM: 3787
+    C_TQ: 9.375
+  response: |-
+    7DA100C6210A18ECB80
+    7DA21440202804B0400
+- expected_values:
+    C_RPM: 8138
+    C_TQ: 15
+  response: |-
+    7DA100C6210A19FCA80
+    7DA2175040280780400
+- expected_values:
+    C_RPM: 9962
+    C_TQ: -12.75
+  response: |-
+    7DA100C6210A1A6EA7F
+    7DA218E04027F9A0400
