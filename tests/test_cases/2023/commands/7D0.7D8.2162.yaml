@@ -1,29 +1,29 @@
 command_id: 7D0.7D8.2162
 test_cases:
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162011000
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162011400
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162011700
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162012500
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162012700
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162012D00
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162015400
 - expected_values:
-    C_HR_PARKING_BRAKE: 1
+    CHR_PARKING_BRAKE: 1
   response: 7D8056162030000
 - expected_values:
-    C_HR_PARKING_BRAKE: 0
+    CHR_PARKING_BRAKE: 0
   response: 7D8056162096300

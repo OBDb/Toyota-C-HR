@@ -1,59 +1,59 @@
 command_id: 750.758.2116|e=2A,fc=1
 test_cases:
 - expected_values:
-    C_HR_TT_RL: 12
-    C_HR_TT_RR: 12
+    CHR_TT_RL: 12
+    CHR_TT_RR: 12
   response: |-
     7582A10076116000034
     7582A21340000000000
 - expected_values:
-    C_HR_TT_RL: 15
+    CHR_TT_RL: 15
   response: |-
     7582A10076116000037
     7582A21000000000000
 - expected_values:
-    C_HR_TT_FR: 11
-    C_HR_TT_RR: 11
+    CHR_TT_FR: 11
+    CHR_TT_RR: 11
   response: |-
     7582A10076116003300
     7582A21330000000000
 - expected_values:
-    C_HR_TT_FL: 21
-    C_HR_TT_FR: 17
-    C_HR_TT_RL: 16
-    C_HR_TT_RR: 23
+    CHR_TT_FL: 21
+    CHR_TT_FR: 17
+    CHR_TT_RL: 16
+    CHR_TT_RR: 23
   response: |-
     7582A100761163D3938
     7582A213F0000000000
 - expected_values:
-    C_HR_TT_FL: 21
-    C_HR_TT_FR: 18
-    C_HR_TT_RL: 16
-    C_HR_TT_RR: 24
+    CHR_TT_FL: 21
+    CHR_TT_FR: 18
+    CHR_TT_RL: 16
+    CHR_TT_RR: 24
   response: |-
     7582A100761163D3A38
     7582A21400000000000
 - expected_values:
-    C_HR_TT_FL: 32
-    C_HR_TT_FR: 28
-    C_HR_TT_RL: 27
-    C_HR_TT_RR: 34
+    CHR_TT_FL: 32
+    CHR_TT_FR: 28
+    CHR_TT_RL: 27
+    CHR_TT_RR: 34
   response: |-
     7582A10076116484443
     7582A214A0000000000
 - expected_values:
-    C_HR_TT_FL: 32
-    C_HR_TT_FR: 28
-    C_HR_TT_RL: 28
-    C_HR_TT_RR: 34
+    CHR_TT_FL: 32
+    CHR_TT_FR: 28
+    CHR_TT_RL: 28
+    CHR_TT_RR: 34
   response: |-
     7582A10076116484444
     7582A214A0000000000
 - expected_values:
-    C_HR_TT_FL: 33
-    C_HR_TT_FR: 28
-    C_HR_TT_RL: 27
-    C_HR_TT_RR: 34
+    CHR_TT_FL: 33
+    CHR_TT_FR: 28
+    CHR_TT_RL: 27
+    CHR_TT_RR: 34
   response: |-
     7582A10076116494443
     7582A214A0000000000

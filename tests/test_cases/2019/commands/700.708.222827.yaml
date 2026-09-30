@@ -1,8 +1,8 @@
 command_id: 700.708.222827
 test_cases:
 - expected_values:
-    C_HR_ELECTRIC_WATER_PUMP: 0
+    CHR_ELECTRIC_WATER_PUMP: 0
   response: '7080462282700'
 - expected_values:
-    C_HR_ELECTRIC_WATER_PUMP: 4880
+    CHR_ELECTRIC_WATER_PUMP: 4880
   response: 708046228277A

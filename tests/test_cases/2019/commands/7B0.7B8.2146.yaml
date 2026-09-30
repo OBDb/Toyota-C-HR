@@ -1,9 +1,9 @@
 command_id: 7B0.7B8.2146
 test_cases:
 - expected_values:
-    C_HR_ZP_DEC: -0.02
-    C_HR_ZP_DEC2: 0
-    C_HR_ZP_YAW: 0
+    CHR_ZP_DEC: -0.02
+    CHR_ZP_DEC2: 0
+    CHR_ZP_YAW: 0
   response: |-
     7B8100A6146FF00807F
     7B821E20000FF000000

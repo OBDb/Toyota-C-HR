@@ -1,8 +1,8 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
-    C_HR_VSS: 0
+    CHR_VSS: 0
   response: 7B803612100
 - expected_values:
-    C_HR_VSS: 159.3
+    CHR_VSS: 159.3
   response: 7B803612176

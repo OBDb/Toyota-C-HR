@@ -1,14 +1,14 @@
 command_id: 700.708.221043
 test_cases:
 - expected_values:
-    C_HR_EWP_RPM: 2250
-    C_HR_EWP_TARGET_VSS: 2225
+    CHR_EWP_RPM: 2250
+    CHR_EWP_TARGET_VSS: 2225
   response: 70805621043595A
 - expected_values:
-    C_HR_EWP_RPM: 2225
-    C_HR_EWP_TARGET_VSS: 2250
+    CHR_EWP_RPM: 2225
+    CHR_EWP_TARGET_VSS: 2250
   response: 708056210435A59
 - expected_values:
-    C_HR_EWP_RPM: 2250
-    C_HR_EWP_TARGET_VSS: 2250
+    CHR_EWP_RPM: 2250
+    CHR_EWP_TARGET_VSS: 2250
   response: 708056210435A5A

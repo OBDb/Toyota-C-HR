@@ -1,8 +1,8 @@
 command_id: 700.708.22105E
 test_cases:
 - expected_values:
-    C_HR_ECU_INTERNAL_T: 30
+    CHR_ECU_INTERNAL_T: 30
   response: '7080462105E46'
 - expected_values:
-    C_HR_ECU_INTERNAL_T: 54
+    CHR_ECU_INTERNAL_T: 54
   response: 7080462105E5E

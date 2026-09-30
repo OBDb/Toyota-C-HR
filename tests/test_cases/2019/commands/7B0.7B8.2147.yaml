@@ -1,128 +1,128 @@
 command_id: 7B0.7B8.2147
 test_cases:
 - expected_values:
-    C_HR_LAT_G: 0.02
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: 0
-    C_HR_YAW_RATE: 0
+    CHR_LAT_G: 0.02
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: 0
+    CHR_YAW_RATE: 0
   response: 7B80761470100808000
 - expected_values:
-    C_HR_LAT_G: 0.02
-    C_HR_LNG_G: 0.04
-    C_HR_STEER_ANGLE: -1.5
-    C_HR_YAW_RATE: 0
+    CHR_LAT_G: 0.02
+    CHR_LNG_G: 0.04
+    CHR_STEER_ANGLE: -1.5
+    CHR_YAW_RATE: 0
   response: 7B80761470102807FF1
 - expected_values:
-    C_HR_LAT_G: 0.04
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: 40.5
-    C_HR_YAW_RATE: 1
+    CHR_LAT_G: 0.04
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: 40.5
+    CHR_YAW_RATE: 1
   response: 7B80761470200818195
 - expected_values:
-    C_HR_LAT_G: -0.14
-    C_HR_LNG_G: -0.02
-    C_HR_STEER_ANGLE: -163.5
-    C_HR_YAW_RATE: -22
+    CHR_LAT_G: -0.14
+    CHR_LNG_G: -0.02
+    CHR_STEER_ANGLE: -163.5
+    CHR_YAW_RATE: -22
   response: 7B8076147F9FF6A799D
 - expected_values:
-    C_HR_LAT_G: -0.02
-    C_HR_LNG_G: 0.02
-    C_HR_STEER_ANGLE: 87
-    C_HR_YAW_RATE: 0
+    CHR_LAT_G: -0.02
+    CHR_LNG_G: 0.02
+    CHR_STEER_ANGLE: 87
+    CHR_YAW_RATE: 0
   response: 7B8076147FF01808366
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: 496.6
-    C_HR_YAW_RATE: -7
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: 496.6
+    CHR_YAW_RATE: -7
   response: |-
     7B81009614700007993
     7B82166000000000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: -14.5
-    C_HR_YAW_RATE: -2
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: -14.5
+    CHR_YAW_RATE: -2
   response: |-
     7B81009614700007E7F
     7B8216F000000000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: -34.1
-    C_HR_YAW_RATE: -1
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: -34.1
+    CHR_YAW_RATE: -1
   response: |-
     7B81009614700007F7E
     7B821AB00FE00000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: -32.5
-    C_HR_YAW_RATE: -1
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: -32.5
+    CHR_YAW_RATE: -1
   response: |-
     7B81009614700007F7E
     7B821BB00FF00000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: -22.4
-    C_HR_YAW_RATE: -1
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: -22.4
+    CHR_YAW_RATE: -1
   response: |-
     7B81009614700007F7F
     7B82120000000000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: -154.4
-    C_HR_YAW_RATE: 0
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: -154.4
+    CHR_YAW_RATE: 0
   response: |-
     7B81009614700008079
     7B821F800F000000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: 0
-    C_HR_YAW_RATE: 0
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: 0
+    CHR_YAW_RATE: 0
   response: |-
     7B81009614700008080
     7B82100000000000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: 0.04
-    C_HR_STEER_ANGLE: -494.9
-    C_HR_YAW_RATE: -3
+    CHR_LAT_G: 0
+    CHR_LNG_G: 0.04
+    CHR_STEER_ANGLE: -494.9
+    CHR_YAW_RATE: -3
   response: |-
     7B81009614700027D6C
     7B821AB00FE00000000
 - expected_values:
-    C_HR_LAT_G: 0
-    C_HR_LNG_G: -0.02
-    C_HR_STEER_ANGLE: -493.5
-    C_HR_YAW_RATE: -3
+    CHR_LAT_G: 0
+    CHR_LNG_G: -0.02
+    CHR_STEER_ANGLE: -493.5
+    CHR_YAW_RATE: -3
   response: |-
     7B81009614700FF7D6C
     7B821B900FF00000000
 - expected_values:
-    C_HR_LAT_G: 0.2
-    C_HR_LNG_G: -0.08
-    C_HR_STEER_ANGLE: 437.8
-    C_HR_YAW_RATE: 35
+    CHR_LAT_G: 0.2
+    CHR_LNG_G: -0.08
+    CHR_STEER_ANGLE: 437.8
+    CHR_YAW_RATE: 35
   response: |-
     7B8100961470AFCA391
     7B8211A000000000000
 - expected_values:
-    C_HR_LAT_G: -0.08
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: -494.9
-    C_HR_YAW_RATE: -27
+    CHR_LAT_G: -0.08
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: -494.9
+    CHR_YAW_RATE: -27
   response: |-
     7B810096147FC00656C
     7B821AB000100000000
 - expected_values:
-    C_HR_LAT_G: -0.02
-    C_HR_LNG_G: 0
-    C_HR_STEER_ANGLE: -42
-    C_HR_YAW_RATE: -3
+    CHR_LAT_G: -0.02
+    CHR_LNG_G: 0
+    CHR_STEER_ANGLE: -42
+    CHR_YAW_RATE: -3
   response: |-
     7B810096147FF007D7E
     7B8215C00F700000000

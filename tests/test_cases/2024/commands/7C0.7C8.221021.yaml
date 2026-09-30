@@ -1,11 +1,11 @@
 command_id: 7C0.7C8.221021
 test_cases:
 - expected_values:
-    C_HR_BATTERY_VOLTAGE_7C0: 11.5
+    CHR_BATTERY_VOLTAGE_7C0: 11.5
   response: 7C80462102173
 - expected_values:
-    C_HR_BATTERY_VOLTAGE_7C0: 14.1
+    CHR_BATTERY_VOLTAGE_7C0: 14.1
   response: 7C8046210218D
 - expected_values:
-    C_HR_BATTERY_VOLTAGE_7C0: 14.2
+    CHR_BATTERY_VOLTAGE_7C0: 14.2
   response: 7C8046210218E

@@ -1,38 +1,38 @@
 command_id: 7E0.7E8.2182
 test_cases:
 - expected_values:
-    C_HR_ATF_PAN_T: 42.5
-    C_HR_ATF_TQC_T: 89.09375
+    CHR_ATF_PAN_T: 42.5
+    CHR_ATF_TQC_T: 89.09375
   response: |-
     7E81008618252808118
     7E821082E0000000000
 - expected_values:
-    C_HR_ATF_PAN_T: 43.75
-    C_HR_ATF_TQC_T: 89.26172
+    CHR_ATF_PAN_T: 43.75
+    CHR_ATF_TQC_T: 89.26172
   response: |-
     7E81008618253C08143
     7E82108470000000000
 - expected_values:
-    C_HR_ATF_PAN_T: 45
-    C_HR_ATF_TQC_T: 89.41016
+    CHR_ATF_PAN_T: 45
+    CHR_ATF_TQC_T: 89.41016
   response: |-
     7E81008618255008169
     7E82107DB0000000000
 - expected_values:
-    C_HR_ATF_PAN_T: 52.5
-    C_HR_ATF_TQC_T: 88.98047
+    CHR_ATF_PAN_T: 52.5
+    CHR_ATF_TQC_T: 88.98047
   response: |-
     7E8100861825C8080FB
     7E82108000000000000
 - expected_values:
-    C_HR_ATF_PAN_T: 55
-    C_HR_ATF_TQC_T: 94.10938
+    CHR_ATF_PAN_T: 55
+    CHR_ATF_TQC_T: 94.10938
   response: |-
     7E8100861825F00861C
     7E82108850000000000
 - expected_values:
-    C_HR_ATF_PAN_T: 55.625
-    C_HR_ATF_TQC_T: 87.98438
+    CHR_ATF_PAN_T: 55.625
+    CHR_ATF_TQC_T: 87.98438
   response: |-
     7E8100861825FA07FFC
     7E82106050000000000

@@ -1,34 +1,34 @@
 command_id: 7E0.7E8.2185
 test_cases:
 - expected_values:
-    C_HR_GEAR: 1
-    C_HR_TQC_LOCKUP: 0
+    CHR_GEAR: 1
+    CHR_TQC_LOCKUP: 0
   response: '7E8056185010000'
 - expected_values:
-    C_HR_GEAR: 1
-    C_HR_TQC_LOCKUP: 0
+    CHR_GEAR: 1
+    CHR_TQC_LOCKUP: 0
   response: '7E8056185010082'
 - expected_values:
-    C_HR_GEAR: 2
-    C_HR_TQC_LOCKUP: 0
+    CHR_GEAR: 2
+    CHR_TQC_LOCKUP: 0
   response: 7E805618502208A
 - expected_values:
-    C_HR_GEAR: 2
-    C_HR_TQC_LOCKUP: 1
+    CHR_GEAR: 2
+    CHR_TQC_LOCKUP: 1
   response: 7E805618502A08A
 - expected_values:
-    C_HR_GEAR: 3
-    C_HR_TQC_LOCKUP: 0
+    CHR_GEAR: 3
+    CHR_TQC_LOCKUP: 0
   response: '7E8056185033082'
 - expected_values:
-    C_HR_GEAR: 4
-    C_HR_TQC_LOCKUP: 0
+    CHR_GEAR: 4
+    CHR_TQC_LOCKUP: 0
   response: 7E805618504208A
 - expected_values:
-    C_HR_GEAR: 4
-    C_HR_TQC_LOCKUP: 1
+    CHR_GEAR: 4
+    CHR_TQC_LOCKUP: 1
   response: 7E805618504A08A
 - expected_values:
-    C_HR_GEAR: 5
-    C_HR_TQC_LOCKUP: 1
+    CHR_GEAR: 5
+    CHR_TQC_LOCKUP: 1
   response: 7E805618505A08A
