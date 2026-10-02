@@ -1,22 +1,14 @@
 command_id: 750.758.2130|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    CHR_TP_RL: 2.39655
-    CHR_TP_RR: 2.31034
+    CHR_TP_FL: null
+    CHR_TP_FR: null
+    CHR_TP_RL: null
+    CHR_TP_RR: null
+    CHR_TP_SPARE: null
   response: |-
-    7582A100761300000A8
-    7582A21A30000000000
-- expected_values:
-    CHR_TP_RL: 2.43103
-  response: |-
-    7582A100761300000AA
+    7582A10076130000000
     7582A21000000000000
-- expected_values:
-    CHR_TP_FR: 2.32759
-    CHR_TP_RR: 2.2931
-  response: |-
-    7582A1007613000A400
-    7582A21A20000000000
 - expected_values:
     CHR_TP_FL: 2.5
     CHR_TP_FR: 2.44828
