@@ -1,4 +1,4 @@
-command_id: 750.758.221005|e=2A,ta=2A,fc=1
+command_id: 750.758.221005|e=2A,ta=2A,fc=1,f=2023-
 test_cases:
 - expected_values:
     CHR_TP_1: null
@@ -30,6 +30,12 @@ test_cases:
   response: |-
     7582A100D6210050000
     7582A2100A400A200A1
+    7582A22000000000000
+- expected_values:
+    CHR_TP_1: 29.93939
+  response: |-
+    7582A100D6210050093
+    7582A21000000000000
     7582A22000000000000
 - expected_values:
     CHR_TP_1: 31.39394
