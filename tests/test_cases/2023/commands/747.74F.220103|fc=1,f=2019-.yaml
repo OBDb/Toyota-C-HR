@@ -1,29 +1,38 @@
 command_id: 747.74F.220103|fc=1,f=2019-
 test_cases:
 - expected_values:
-    CHR_ODO_V6: 9611
+    CHR_ODO_V6_RAW: 9611
+    CHR_ODO_V6_UNIT: KM
   response: 74F076201030100258B
 - expected_values:
-    CHR_ODO_V6: 9612
+    CHR_ODO_V6_RAW: 9612
+    CHR_ODO_V6_UNIT: KM
   response: 74F076201030100258C
 - expected_values:
-    CHR_ODO_V6: 9613
+    CHR_ODO_V6_RAW: 9613
+    CHR_ODO_V6_UNIT: KM
   response: 74F076201030100258D
 - expected_values:
-    CHR_ODO_V6: 9615
+    CHR_ODO_V6_RAW: 9615
+    CHR_ODO_V6_UNIT: KM
   response: 74F076201030100258F
 - expected_values:
-    CHR_ODO_V6: 9617
+    CHR_ODO_V6_RAW: 9617
+    CHR_ODO_V6_UNIT: KM
   response: 74F0762010301002591
 - expected_values:
-    CHR_ODO_V6: 14736
+    CHR_ODO_V6_RAW: 14736
+    CHR_ODO_V6_UNIT: MI
   response: 74F0762010302003990
 - expected_values:
-    CHR_ODO_V6: 14813
+    CHR_ODO_V6_RAW: 14813
+    CHR_ODO_V6_UNIT: MI
   response: 74F07620103020039DD
 - expected_values:
-    CHR_ODO_V6: 14814
+    CHR_ODO_V6_RAW: 14814
+    CHR_ODO_V6_UNIT: MI
   response: 74F07620103020039DE
 - expected_values:
-    CHR_ODO_V6: 14815
+    CHR_ODO_V6_RAW: 14815
+    CHR_ODO_V6_UNIT: MI
   response: 74F07620103020039DF
